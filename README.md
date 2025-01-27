@@ -27,7 +27,7 @@ This is a Node.js-based application for automating GM (Good Morning) transaction
 1. Clone the repository:
    ```bash
    git clone https://github.com/ganjsmoke/auto-gm-ink.git
-   cd <repository-folder>
+   cd auto-gm-ink
    ```
 
 2. Install dependencies:
